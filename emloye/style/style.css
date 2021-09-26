@@ -1,0 +1,22 @@
+.heading{
+	margin-bottom: 5%;
+	font-size: 1.8em;
+	text-align: center;
+}
+input[type=submit]{
+	background: #28ac28;
+	color: white;
+	font-size: 1.5em;
+	border-radius: 0.5em;
+	padding: 15px;
+}
+
+input[type=submit]:hover{
+	background: #5656;
+	color: black;
+
+}
+
+.conten{
+	padding:
+}
